@@ -1,8 +1,7 @@
 import streamlit
 
-streamlit.title("This is the First page")
-streamlit.header("This is the header")
-streamlit.text("This is where the text goes")
-streamlit.text("This is where the text goes 1")
-streamlit.text("This is where the text goes 2")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
 
